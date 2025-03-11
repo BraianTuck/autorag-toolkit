@@ -36,18 +36,9 @@ AutoRAG Toolkit optimiza cada componente del pipeline RAG:
 ### Usando pip
 
 ```bash
-pip install autorag-toolkit
-```
-
-### Usando Docker
-
-```bash
-# Clonar el repositorio
-git clone https://github.com/BraianTuck/autorag-toolkit.git
-cd autorag-toolkit
-
-# Iniciar con Docker Compose
+git clone https://github.com/Marker-Inc-Korea/AutoRAG
 docker compose up -d
+go to: http://localhost:3000
 ```
 
 ## 📊 Flujo de Trabajo
